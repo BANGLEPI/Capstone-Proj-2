@@ -1,6 +1,6 @@
-# 📊 Transjakarta Dashboard Analysis
+# Transjakarta Dashboard Analysis
 
-## 📌 Deskripsi Proyek
+##  Deskripsi Proyek
 Proyek ini bertujuan untuk menganalisis data perjalanan **Transjakarta** dengan menggunakan **Tableau**.  
 Dataset berisi informasi transaksi perjalanan selama bulan **April**, mencakup detail penumpang, rute, waktu perjalanan, dan metode pembayaran.  
 
@@ -8,7 +8,7 @@ Melalui proyek ini, dibuat beberapa dashboard interaktif untuk membantu manajeme
 
 ---
 
-## 🎯 Tujuan
+##  Tujuan
 - Menyediakan visualisasi data yang mudah dipahami untuk mendukung pengambilan keputusan.
 - Mengidentifikasi pola penggunaan berdasarkan **waktu** (hari, jam, tanggal).
 - Menemukan **koridor dengan jumlah perjalanan tertinggi**.
@@ -17,7 +17,7 @@ Melalui proyek ini, dibuat beberapa dashboard interaktif untuk membantu manajeme
 
 ---
 
-## 📂 Struktur Dashboard
+##  Struktur Dashboard
 1. **Overview**  
    - Total Trips, Total Revenue, Total Passengers, Average Trip Duration.  
    - Pie chart pembagian Paid vs Free vs Missing fare.  
@@ -39,13 +39,13 @@ Melalui proyek ini, dibuat beberapa dashboard interaktif untuk membantu manajeme
 
 ---
 
-## 🛠️ Tools yang Digunakan
+##  Tools yang Digunakan
 - **Tableau Public** → untuk membuat visualisasi dan dashboard interaktif.  
 - **Microsoft Excel / CSV** → dataset mentah Transjakarta.  
 
 ---
 
-## 🚀 Cara Mengakses
+##  Cara Mengakses
 - Lihat langsung dashboard interaktif di Tableau Public:  
-  👉 [Klik di sini untuk membuka Dashboard]
+  [Klik di sini untuk membuka Dashboard]
   (https://public.tableau.com/app/profile/john.levi6459/viz/capstone_project_17566950682080/Overview?publish=yes&showOnboarding=true)  
